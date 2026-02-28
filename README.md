@@ -5,6 +5,16 @@
 </p>
 
 <p align="center">
+    <a href="https://github.com/visal-sak">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/visal-sak/Visal-sak/outputs/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/visal-sak/Visal-sak/outputs/github-contribution-grid-snake.svg">
+            <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/visal-sak/Visal-sak/outputs/github-contribution-grid-snake-dark.svg">
+        </picture>
+    </a>
+</p>
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=visal-sak&color=brightgreen" alt="Profile views" />
 </p>
 
