@@ -34,8 +34,9 @@
 ## GitHub's Stats
 
 <p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=visal-sak&show_icons=true&theme=dark&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visal-sak&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css" width="48%" />
+    <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=visal-sak&theme=github_dark" width="32%" />
+    <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=visal-sak&theme=github_dark" width="32%" />
+    <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=visal-sak&theme=github_dark" width="32%" />
 </p>
 
 <p align="center">
