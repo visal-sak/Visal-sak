@@ -28,7 +28,7 @@
 ## Tech Stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,git,python,postgres,mongodb&perline=8" />
 </p>
 
 ## GitHub's Stats
